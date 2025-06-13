@@ -5,12 +5,18 @@
 
 ---
 
-🌟 **About Me**  
-- 🧑‍💻 ASP.NET Core Developer with 1 year of professional experience   
-- 💼 Focused on **Clean Architecture, Web APIs, Mvc and Blazor WebAssembly**  
-- 💡 Passionate about building real-time ERP systems and task management platforms  
-- 🏏 National-level cricketer & Captain – Anna University Zonal Team  
-- 📫 Reach me: **baladharsan8@gmail.com**
+🌟 About Me
+
+🧑‍💻 ASP.NET Core Developer with 1 year of hands-on experience
+
+🧱 Skilled in ASP.NET Core Web API, MVC, and Blazor WebAssembly using Clean Architecture
+
+🚀 Passionate about developing real-time ERP systems and Task Management Platforms
+
+🏏 National-level Cricketer | Former Captain – Anna University Zonal Team
+
+📫 Contact: baladharsan8@gmail.com
+
 
 ---
 
@@ -22,7 +28,7 @@ Web:                      HTML, CSS, Bootstrap, Blazor WebAssembly
 Database:                 SQL Server, Entity Framework Core  
 Architecture:             Clean Architecture, REST APIs, Dependency Injection  
 Security:                 JWT Authentication, CORS  
-Concepts:                 Asynchronous Programming, LINQ, Enums  
+Concepts:                 Asynchronous Programming, LINQ, Enums , UnitOfWork 
 Logging:                  NLog  
 Tools:                    Visual Studio, VS Code, Postman, Swagger  
 Version Control:          Git & GitHub  
