@@ -6,9 +6,8 @@
 ---
 
 🌟 **About Me**  
-- 🧑‍💻 ASP.NET Core Developer with 1 year of professional experience  
-- 🏢 Currently working at **Tiaano Fabric Private Limited, Chennai**  
-- 💼 Focused on **Clean Architecture, Web APIs, and Blazor WebAssembly**  
+- 🧑‍💻 ASP.NET Core Developer with 1 year of professional experience   
+- 💼 Focused on **Clean Architecture, Web APIs, Mvc and Blazor WebAssembly**  
 - 💡 Passionate about building real-time ERP systems and task management platforms  
 - 🏏 National-level cricketer & Captain – Anna University Zonal Team  
 - 📫 Reach me: **baladharsan8@gmail.com**
